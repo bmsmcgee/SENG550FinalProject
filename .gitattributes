@@ -1,0 +1,2 @@
+Appliances.jsonl filter=lfs diff=lfs merge=lfs -text
+meta_Appliances.jsonl filter=lfs diff=lfs merge=lfs -text
